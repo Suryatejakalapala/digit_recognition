@@ -41,8 +41,8 @@ The model used in this project is a Convolutional Neural Network (CNN) with the 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/digit-recognition-mnist.git
-    cd digit-recognition-mnist
+    git clone https://github.com/Suryatejakalapala/digit-recognition.git
+    cd digit-recognition
     ```
 
 2. Create a virtual environment:
